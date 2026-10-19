@@ -1,0 +1,13 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Obsidian 配置（各人不同，不共享）
+.obsidian/
+.trash/
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
